@@ -2,7 +2,7 @@
 
 ## Brainnest Training Program
 
-This project documents my traineeship experience with [Brainnest]([https://www.brainnest.consulting](https://www.linkedin.com/company/brainnest-consulting/)), where I was able to expand my data analysis skills by working with a real-world dataset on heart disease. By exploring and modeling the dataset, I gained a deeper understanding of the risk factors associated with heart disease, as well as the potential for early detection and prevention.
+This project documents my traineeship experience with [Brainnest](https://www.linkedin.com/company/brainnest-consulting/), where I was able to expand my data analysis skills by working with a real-world dataset on heart disease. By exploring and modeling the dataset, I gained a deeper understanding of the risk factors associated with heart disease, as well as the potential for early detection and prevention.
 
 Through the course of the project, I utilized a variety of statistical tools and techniques, including data preprocessing, exploratory data analysis, feature engineering, predictive modeling, and visualization. I also utilized popular Python libraries such as Pandas, Matplotlib, and Scikit-Learn to help streamline my analysis and visualization processes.
 
